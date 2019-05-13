@@ -18,9 +18,9 @@
    - '/', '\*', '%'
    - '!', '-u'
    
-   The language also covers conditional statements('?') and loops('@').  
-    - '?(condition){code}'
-    - '@(condition){code}'
+   The language also covers conditional statements('?') and while loops('@').  
+    - '?(condition){code}'  
+    - '@(condition){code}'  
     
 #### Input:
    First line describes the max operation counter.  
