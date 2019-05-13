@@ -1,0 +1,20 @@
+p = 2
+ 
+while 40 - p
+{
+  pierwsza = 1
+  r = 2
+  while p - r
+  {
+    if p % r
+      skip
+    else
+      pierwsza = 0
+    r = r + 1
+  }
+  if pierwsza
+    write p
+  else
+    skip
+  p = p + 1
+}
