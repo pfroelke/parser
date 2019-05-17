@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AISD_2", "AISD_2\AISD_2.vcxproj", "{66675F2B-B1E6-4BA8-B9A6-53D25F10CED6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Script Parser", "Script Parser\Script Parser.vcxproj", "{66675F2B-B1E6-4BA8-B9A6-53D25F10CED6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
