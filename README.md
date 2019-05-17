@@ -1,4 +1,5 @@
 # parser
+###### Copyright © 2019 P. Froelke
   All variables are interpreted as "int" in C. They are global and there's no need to declare them.  
   Every variable can be an integer or have a special value "Nul". "Nul" is the default value of a variable.  
   Variables are represented as a string of latin language characters. Size of characters does matter.  
